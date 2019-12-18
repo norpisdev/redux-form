@@ -54,7 +54,7 @@
   },
   "homepage": "https://redux-form.com/",
   "dependencies": {
-    "deep-equal": "^1.0.1",
+    "deep-equal": "1.0.1",
     "es6-error": "^4.0.0",
     "hoist-non-react-statics": "^1.2.0",
     "invariant": "^2.2.2",
